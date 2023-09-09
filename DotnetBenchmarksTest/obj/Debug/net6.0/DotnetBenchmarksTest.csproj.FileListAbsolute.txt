@@ -1,0 +1,15 @@
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/bin/Debug/net6.0/DotnetBenchmarksTest
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/bin/Debug/net6.0/DotnetBenchmarksTest.deps.json
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/bin/Debug/net6.0/DotnetBenchmarksTest.runtimeconfig.json
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/bin/Debug/net6.0/DotnetBenchmarksTest.dll
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/bin/Debug/net6.0/ref/DotnetBenchmarksTest.dll
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/bin/Debug/net6.0/DotnetBenchmarksTest.pdb
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/DotnetBenchmarksTest.csproj.AssemblyReference.cache
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/DotnetBenchmarksTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/DotnetBenchmarksTest.AssemblyInfoInputs.cache
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/DotnetBenchmarksTest.AssemblyInfo.cs
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/DotnetBenchmarksTest.csproj.CoreCompileInputs.cache
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/DotnetBenchmarksTest.dll
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/ref/DotnetBenchmarksTest.dll
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/DotnetBenchmarksTest.pdb
+/home/ezequiel/repos/local/dotnet-benchmarks-test/DotnetBenchmarksTest/obj/Debug/net6.0/DotnetBenchmarksTest.genruntimeconfig.cache
